@@ -1,6 +1,6 @@
-# $\varphi$-FD : A well-conditioned finite difference method inspired by $\varphi$-FEM for general geometries on elliptic PDEs
+# $\varphi$-FD, a second order finite difference scheme for geometry defined by level-set function: the Neumann case
 
-This repository contains the code used in the study "$\varphi$-FD : A well-conditioned finite difference method inspired by $\varphi$-FEM for general geometries on elliptic PDEs" Michel Duprez, Vanessa Lleras, Alexei Lozinski, Vincent Vigon, Killian Vuillemot ([preprint](https://hal.science/hal-04731164)).
+This repository contains the code used in the study "$\varphi$-FD, a second order finite difference scheme for geometry defined by level-set function: the Neumann case" Michel Duprez, Vanessa Lleras, Alexei Lozinski, Lisl Weynans ([preprint](https://hal.science/hal-04731164)).
 
 ## This repository is for reproducibility purposes only
 
